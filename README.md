@@ -7,5 +7,7 @@ This guide could be find in the next article: https://hernackikacper.medium.com/
 To make this project work launch this commnads inside the directory cloned:
 
  npm init -y
+ 
  npm install typescript --save-dev
+ 
  npm install @types/node --save-dev
